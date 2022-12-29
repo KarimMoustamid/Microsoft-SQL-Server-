@@ -1,3 +1,5 @@
+-- noinspection SqlNoDataSourceInspectionForFile
+
 -- List All existing databases 
 SELECT name , database_id , create_DATE FROM sys.databases;
 
